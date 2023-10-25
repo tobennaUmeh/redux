@@ -1,0 +1,17 @@
+{
+  "name": "redux",
+  "version": "1.0.0",
+  "description": "Learning redix",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tobenna",
+  "license": "ISC",
+  "devDependencies": {
+    "redux": "^4.2.1"
+  },
+  "dependencies": {
+    "redux-logger": "^3.0.6"
+  }
+}
